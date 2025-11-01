@@ -1,15 +1,15 @@
-# MyFirstGame_C 
+# MyFirstGame_C🎮
 
 ### Primer intento de juego con casillas en C a finales de la asignatura IP, 2023 <br>
 
-## Compilación
+## Compilación⚙️
 ```bash
 
-# Compilar
+# Compilar🔩
 make
 
-# Compilar con debug
+# Compilar con debug🔧
 make debug
 
-# Limpiar
+# Limpiar🧹
 make clean
