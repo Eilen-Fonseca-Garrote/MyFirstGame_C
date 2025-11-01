@@ -5,7 +5,7 @@
 ## Compilación⚙️
 ```bash
 
-# Compilar🔩
+# Compilar
 make
 
 # Compilar con debug🔧
